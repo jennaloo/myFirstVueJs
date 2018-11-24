@@ -1,0 +1,7 @@
+* {
+    transition: 0.5s ease;
+}
+
+.hello {
+    background-color: red;
+}
